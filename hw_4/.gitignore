@@ -1,0 +1,14 @@
+.idea/
+.DS_Store
+venv
+/__pycache__
+/logfile.log
+**/allure-results/
+/selenoid/
+/selenoid_config/
+/init/
+/config/
+/.pytest_cache/
+api_testing/
+qa_ddt/
+__init__.py
